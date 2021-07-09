@@ -1,7 +1,10 @@
-# PythonPractice
+# Python Practice Repository
 
 
 
-This is a hub for personal use in learning Python.
+This is a hub for my personal use in learning Python.
 
-That includes all of my progress in understanding Classes and Object Oriented Programming.
+##Progress
+Object-Oriented Programming - big fun.
+
+
